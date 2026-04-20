@@ -20,6 +20,6 @@ Through fun games, puzzles, and short videos, Ludoria supports children’s acad
 * Parents looking for structured early learning tools
 * Schools and educators supporting early childhood education
 
-##Figma Link
+## Figma Link
 Board: https://www.figma.com/design/XLcRAyudVk5AUY4cOD9ITP/Ludoria-%7C-Team---2?node-id=0-1&t=3vinr1JOPqm6iyzU-1
 Jam: https://www.figma.com/board/0DwBFQsuNRsiplFX7zhGBs/Ludoria?node-id=0-1&t=bDeVHLp5spkQZ0L0-1
